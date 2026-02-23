@@ -27,7 +27,7 @@ const jobs = [
    type:"Full-time",
    salary:"$125,000 - $165,000",
    applied:"Not Applied",
-   description:"Transform complex data into compelling visualizations. Required skills: D3.js, React, and strong analytical thinking.",
+   description:"Transform complex data into compelling visualizations. Required skills: JavaScript, React, and strong analytical thinking.",
    status:"All"},
 
   {id:4,
