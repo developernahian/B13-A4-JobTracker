@@ -135,10 +135,7 @@ ${job.applied === "Not Applied" ? "bg-gray-200 text-gray-600" : ""}">
     ${job.description}
   </p>
 
-
   <div class="flex flex-wrap gap-2 mt-4">
-
-
 
  <button 
   onclick="updateStatus(${job.id}, 'Interview')"
@@ -174,11 +171,6 @@ function updateStatus(id, status) {
 
   renderJobs();
 }
-
-
-
-
-
 
 
 
